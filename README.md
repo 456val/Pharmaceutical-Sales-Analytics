@@ -1,6 +1,6 @@
 # Pharmaceutical Retail Sales Dashboard
 
-This dashboard provides a visual analysis of retail sales over the past three months, highlighting trends, top-performing products, and sales patterns.
+This dashboard provides a visual analysis of pharmacy retail sales over the past three months, highlighting trends, top-performing products, and sales patterns.
 
 ### Dataset Overview
 | Column Name     | Description                           |
@@ -12,15 +12,9 @@ This dashboard provides a visual analysis of retail sales over the past three mo
 | TypeOfSale      | Type of sale (all retail)              |
 | ProductCategory | Category of the product                |
 
----
-
 ### Dashboard Screenshot
-![Pharmaceutical Sales Dashboard](path/to/dashboard_screenshot.png)  
 
 <img width="918" height="507" alt="image" src="https://github.com/user-attachments/assets/5afe9bad-317b-47db-81a3-b6498b53135e" />
-
-
----
 
 ### Key Insights
 
@@ -33,8 +27,6 @@ This dashboard provides a visual analysis of retail sales over the past three mo
 - **Unique Products Sold:** 970 unique products.  
 - **Daily Transaction Trends:** Peaks and dips across specific dates highlight high and low activity periods.  
 - **Product Category Popularity:** Some categories dominate volume, while Multivitamins, Beauty & Personal, and Others are least sold.
-
----
 
 ### Recommendations & Strategies
 
