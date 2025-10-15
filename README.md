@@ -17,7 +17,8 @@ This dashboard provides a visual analysis of retail sales over the past three mo
 ### Dashboard Screenshot
 ![Pharmaceutical Sales Dashboard](path/to/dashboard_screenshot.png)  
 
-> The screenshot above captures all key metrics, charts, and trends analyzed over the three-month period.
+<img width="918" height="507" alt="image" src="https://github.com/user-attachments/assets/5afe9bad-317b-47db-81a3-b6498b53135e" />
+
 
 ---
 
